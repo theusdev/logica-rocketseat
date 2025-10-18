@@ -1,2 +1,2 @@
-# l-gica-rocketseat
+# Lógica-rocketseat
 Atividades de curso de lógica Rocketseat
