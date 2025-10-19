@@ -1,2 +1,2 @@
 # Lógica-rocketseat
-Atividades de curso de lógica Rocketseat
+Atividades de curso de lógica de programação Rocketseat
